@@ -5,7 +5,7 @@ import paramiko
 import speedtest
 import wmi
 
-
+#
 class Speedtest:
     # TODO: откалибровать замеры скорости, протестировать апи на разных пк
     """
